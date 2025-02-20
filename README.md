@@ -1,16 +1,30 @@
-## Hi there 👋
 
-<!--
-**riyazahmad102/riyazahmad102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Riyaz Ahmad</h1>
+<h3 align="center">I have done Bacholer of Arts</h3>
+<img align="right" alt="coding" width="400" src="https://www.hugp.com/research/assets/img/gif/pc.gif">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=riyazahmad102&label=Profile%20views&color=0e75b6&style=flat" alt="riyazahmad102" /> </p>
 
-Here are some ideas to get you started:
+- 😀   welcome to my profile
+- 😊   I'm currently learning Software testing 
+- 🤝   I'm looking for help to protect our country from cyber crimes 
+- 📫   How to reach me **riyazansari78950@gmail.com**
+  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/riyaz-ahmad-145b71330/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/chandan-kumar-326932264/" height="30" width="40" /></a>
+<a href="https://www.instagram.com/riyazahmad5069/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Riyaz" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer"> <img src="data:image/png;base64,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" alt="cplusplus" width="40" height="40"/> </a>
+  <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
+  </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=riyazahmad102&show_icons=true&locale=en&layout=compact" alt="riyazahmad102" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=riyazahmad102&show_icons=true&locale=en" alt="riyazahmad102" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=riyazahmad102&" alt="riyazahmad102" /></p>
